@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+nav{
+    height: 80px;
+    width: 100%;
+    background-color: grey;
+    position: -ms-device-fixed;
+}
+a{
+    color: white;
+    text-decoration: none;
+    transition: 0.5s;
+    margin: 0 10px;
+    line-height: 60px;
+}
+a:hover{
+    color: purple;
+}
+h1{
+    text-align: center;
+}
+p{
+    margin-bottom: 20px;
+}
+img{
+    height: 200px;
+}
